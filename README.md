@@ -1,2 +1,2 @@
 # Challenges & solutions
-All my solutions for hackerrank problems
+All my solutions for code problems
